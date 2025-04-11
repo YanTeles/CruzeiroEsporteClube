@@ -1,4 +1,4 @@
-.romero img{
+.alex img{
     max-width: 600px;
     height: auto;
     border-radius: 24px;
@@ -7,16 +7,14 @@
     box-shadow: 0 4px 8px blue;
     align-items: center;
 }
-
-.romero{
+.alex{
     text-align: center;
     border-radius: 8px;
 }
 
 .voltar {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+    width: 10px;
+    height: 10px;
 }
 
 .voltar img {
@@ -25,11 +23,12 @@
     height: auto;
     cursor: pointer;
 }
-.voltar {
-    width: 10px;
-    height: 10px;
-}
 
+.voltar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

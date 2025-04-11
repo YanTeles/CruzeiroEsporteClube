@@ -1,4 +1,4 @@
-.romero img{
+.fabio img{
     max-width: 600px;
     height: auto;
     border-radius: 24px;
@@ -8,15 +8,18 @@
     align-items: center;
 }
 
-.romero{
+.fabio{
     text-align: center;
     border-radius: 8px;
 }
 
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .voltar {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+    width: 10px;
+    height: 10px;
 }
 
 .voltar img {
@@ -25,11 +28,9 @@
     height: auto;
     cursor: pointer;
 }
-.voltar {
-    width: 10px;
-    height: 10px;
-}
 
-*{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.voltar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
