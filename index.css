@@ -23,6 +23,7 @@ header {
 }
 .azul{
     background-color: rgb(5, 5, 56);
+    height: 25px;
     display: flex;
     align-items: center;
     justify-content: center;
