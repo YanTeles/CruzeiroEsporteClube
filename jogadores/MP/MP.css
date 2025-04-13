@@ -1,3 +1,21 @@
+* {
+    margin-top: 0px;
+    padding: 0px;
+}
+
+header h1 {
+    margin-top: 20px;
+}
+
+header {
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
 .MP img {
     max-width: 600px;
     height: auto;
@@ -13,11 +31,12 @@
     border-radius: 8px;
 }
 
-.Superação{
+.Superação {
     position: relative;
     left: 20px;
-    
+
 }
+
 .Voltar {
     display: flex;
     justify-content: center;
@@ -30,11 +49,29 @@
     height: auto;
     cursor: pointer;
 }
+
 .Voltar {
     width: 10px;
     height: 10px;
+    margin-bottom: 40px;
 }
 
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ma {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rp{
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }

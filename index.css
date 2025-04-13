@@ -27,6 +27,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .loja{
@@ -35,4 +36,36 @@ header {
 }
 .camisa{
 margin-left: 10px;
+}
+
+.escudo{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.escudo img{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+
+.azul a{
+    text-decoration: none;
+}
+
+.rp{
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.oa{
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
