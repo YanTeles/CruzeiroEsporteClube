@@ -79,17 +79,14 @@ header{
 
 }
 
-rp{
+.rp{
     background-color: rgb(19, 12, 121);
     height: 75px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     
 }
-
 .rp p{
-    position: absolute;
-    border-top: 10px;
-    left: 10px;
+    margin-left: 10px;
 }

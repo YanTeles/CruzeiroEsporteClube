@@ -57,14 +57,6 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.rp{
-    background-color: rgb(19, 12, 121);
-    height: 75px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-}
 
 .oa {
     background-color: rgb(5, 5, 56);
@@ -72,12 +64,17 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-
+    
 }
 
-.rp p{
-    position: absolute;
-    border-top: 10px;
-    left: 10px;
+.rp{
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
     
+}
+.rp p{
+    margin-left: 10px;
 }

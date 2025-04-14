@@ -1,3 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgb(19, 12, 121);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.ma {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .alex img{
     max-width: 600px;
     height: auto;
@@ -13,8 +34,9 @@
 }
 
 .voltar {
-    width: 10px;
-    height: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
 
 .voltar img {
@@ -25,10 +47,33 @@
 }
 
 .voltar {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
+    width: 10px;
+    height: 10px;
+    margin-bottom: 40px;
 }
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rp{
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+.oa {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rp p{
+    margin-left: 10px;
+    
 }
