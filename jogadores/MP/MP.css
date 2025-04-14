@@ -1,15 +1,13 @@
 * {
-    margin-top: 0px;
+    margin: 0px;
     padding: 0px;
 }
 
-header h1 {
-    margin-top: 20px;
-}
+
 
 header {
     background-color: rgb(19, 12, 121);
-    height: 75px;
+    height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -73,5 +71,21 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
+    
+}
+
+.oa {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rp p{
+    position: absolute;
+    border-top: 10px;
+    left: 10px;
     
 }
