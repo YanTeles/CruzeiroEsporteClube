@@ -81,3 +81,29 @@ header {
 .rp p{
     margin-left: 10px;
 }
+
+.TextCassio h2{
+    padding: 20px;
+}
+.TextCassio p{
+    margin-left:10px ;
+}
+
+.carreira h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.carreira ol{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.titulos h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.titulos h3,ul{
+    margin-top: 10px;
+    margin-left: 25px;
+}
