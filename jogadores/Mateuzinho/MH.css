@@ -89,4 +89,37 @@ header{
 }
 .rp p{
     margin-left: 10px;
+} 
+.text{
+    margin-top: 25px;
+    margin-left: 5px;
+   
+}
+.times{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.carreira{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.historia{
+    margin-left: 10px;
+}
+.textTitulos{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.titulos{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.gremio{
+    margin-bottom: 10px;
+}
+
+.brasil{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
