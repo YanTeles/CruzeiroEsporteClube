@@ -11,7 +11,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 .MP img {
@@ -72,17 +72,56 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
-.rp{
+.rp {
     background-color: rgb(19, 12, 121);
     height: 75px;
     display: flex;
     align-items: center;
     justify-content: left;
-    
+
 }
-.rp p{
+
+.rp p {
     margin-left: 10px;
+}
+
+.historia h2 {
+    padding: 20px;
+}
+
+.historia p {
+    margin-left: 10px;
+}
+
+.carreira h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.carreira ol{
+    margin-left: 25px;
+}
+.titulos h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.titulos h3,ul{
+margin-top: 10px;
+margin-left: 10px;
+}
+
+.text1 h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.text1 p{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Superação{
+    margin-left: 25px;
+    font-style: italic;
 }
