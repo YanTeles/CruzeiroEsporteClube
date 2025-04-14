@@ -1,7 +1,8 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
+
 .ma {
     background-color: rgb(5, 5, 56);
     height: 25px;
@@ -16,7 +17,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 
@@ -54,7 +55,7 @@ header {
     margin-bottom: 40px;
 }
 
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -65,18 +66,48 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
 
-.rp{
+.rp {
     background-color: rgb(19, 12, 121);
     height: 75px;
     display: flex;
     align-items: center;
     justify-content: left;
-    
+
 }
-.rp p{
+
+.rp p {
     margin-left: 10px;
 }
 
+.textGabi h2 {
+    /* margin-top: 10px;
+margin-left: 25px;
+margin-bottom: 25px; */
+    padding: 20px;
+}
+
+.textGabi p {
+    margin-left: 10px;
+}
+
+.carreira h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.carreira ol {
+    margin-left: 25px;
+}
+
+.titulos h2{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.titulos h3,ul{
+    margin-top: 10px;
+    margin-left: 10px;
+}
