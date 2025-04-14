@@ -1,4 +1,26 @@
-.cassio img{
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgb(19, 12, 121);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.ma {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cassio img {
     max-width: 600px;
     height: auto;
     border-radius: 24px;
@@ -8,7 +30,7 @@
     align-items: center;
 }
 
-.cassio{
+.cassio {
     text-align: center;
     border-radius: 8px;
 }
@@ -25,11 +47,38 @@
     height: auto;
     cursor: pointer;
 }
+
 .voltar {
     width: 10px;
     height: 10px;
+    margin-bottom: 40px;
 }
 
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rp{
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.oa {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rp p{
+    position: absolute;
+    border-top: 10px;
+    left: 10px;
+    
 }
