@@ -80,3 +80,31 @@ header {
     
     
 }
+
+.textRomero h2{
+    padding: 20px;
+}
+
+.textRomero p{
+    margin-left: 10px;
+}
+
+.textCarreira h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.textCarreira ol{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.texttitulos h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.texttitulos h3,ul{
+    margin-top: 10px;
+    margin-left: 10px;
+}
