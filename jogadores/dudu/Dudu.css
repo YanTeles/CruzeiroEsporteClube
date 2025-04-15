@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
@@ -8,7 +8,7 @@ header {
     height: 70px;
     display: flex;
     align-items: center;
-    justify-content: center; 
+    justify-content: center;
 }
 
 .ma {
@@ -19,7 +19,7 @@ header {
     justify-content: center;
 }
 
-.Dudu img{
+.Dudu img {
     max-width: 600px;
     height: auto;
     border-radius: 24px;
@@ -29,7 +29,7 @@ header {
     align-items: center;
 }
 
-.Dudu{
+.Dudu {
     text-align: center;
     border-radius: 8px;
 }
@@ -53,17 +53,17 @@ header {
     margin-bottom: 40px;
 }
 
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.rp{
+.rp {
     background-color: rgb(19, 12, 121);
     height: 75px;
     display: flex;
     align-items: center;
     justify-content: left;
-    
+
 }
 
 .oa {
@@ -75,8 +75,34 @@ header {
 
 }
 
-.rp p{
+.rp p {
     margin-left: 10px;
-    
-    
+
+
+}
+
+.textdudu h2 {
+    padding: 20px;
+}
+
+.textdudu p {
+    margin-left: 10px;
+}
+
+.textcarreira h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.textcarreira ol{
+    margin-left: 25px;
+}
+
+.texttitulos h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.texttitulos ul,h3{
+margin-top: 10px;
+margin-left: 25px;
 }
