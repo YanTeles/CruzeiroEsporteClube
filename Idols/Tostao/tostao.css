@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: rgb(19, 12, 121);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.ma {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tostao img{
+   
+    width: 600px;
+    height: 400px;
+    border-radius: 24px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px blue;
+    align-items: center;
+    
+}
+
+.tostao{
+    text-align: center;
+    border-radius: 8px;
+}
+
+.historia h1{
+    padding: 20px;
+}
+
+.historia p{
+    margin-left: 10px;
+}
+
+.carreira h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.carreira ol{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.titulos h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.titulos ul,h3{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.voltar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.voltar img {
+    padding-left: 50px;
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+}
+
+.voltar {
+    width: 10px;
+    height: 10px;
+    margin-bottom: 40px;
+}
+
+.rp{
+    background-color: rgb(19, 12, 121);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+.oa {
+    background-color: rgb(5, 5, 56);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rp p{
+    margin-left: 10px;
+    
+    
+}
