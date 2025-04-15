@@ -78,3 +78,31 @@ header {
 .rp p{
     margin-left: 10px;
 }
+
+.textwillian h2{
+    padding: 20px;
+}
+
+.textwillian p{
+    margin-left: 10px;
+}
+
+.textcarreira h2{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.textcarreira ol{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.texttitulos h2{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.texttitulos ul,h3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
