@@ -77,3 +77,31 @@ header {
     margin-left: 10px;
     
 }
+
+.textalex h2{
+    padding: 20px;
+}
+
+.textalex p{
+    margin-left: 10px;
+}
+
+.Carreira h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Carreira ol{
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.Titulos h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Titulos ul,h3{
+    margin-top: 10px;
+    margin-left: 25px;
+}
